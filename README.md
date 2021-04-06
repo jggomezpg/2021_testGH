@@ -9,3 +9,5 @@ Permite maquetación muy sencilla.
 ## Esto es un subtítulo
 
 La codificación de todo esto se llama Markdown.
+
+Es más fácil de lo que parece
